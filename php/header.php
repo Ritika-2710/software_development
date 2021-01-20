@@ -164,13 +164,13 @@
     }
 </style>
 <header>
-		<a href="/">
+		<a href="/software_development/">
             <h2 class="font-mont" style="display: inline-block;">CRUX</h2>      
         </a>
 		<nav>
 		    <span class="menu-title">menu</span>
 			<ul>
-				<li><a href="/Software_development/">home</a></li>
+				<li><a href="/software_development/">home</a></li>
 				<li><a href="about">about us</a></li>
 				<li><a href="contact">contact</a></li>
 			</ul>
