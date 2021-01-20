@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule ^about$ php/about_us.php [L]
+RewriteRule ^contact$ php/contactform.php [L]
